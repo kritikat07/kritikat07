@@ -81,9 +81,28 @@
 
 ## 🌟 Highlight Projects
 
-- 🔹 Add your **Top 2–3 projects here**
-- 🔹 Mention **Tech Stack + Problem solved**
-- 🔹 Keep it short & impactful  
+-MY PROJECTS:
+- 🔹 Stationery Library for College Students
+Java, Spring Boot, React, MySQL, HTML, CSS, JS
+• Need/Problem: Manual tracking of stationery caused delays, confusion, and administrative workload.
+A centralized system was needed to automate requests and inventory management.
+• Developed a full-stack application to automate stationery management.
+• Students can request items, check availability, and track order status.
+• Admin panel for inventory management, stock updates, and report generation.
+• Integrated frontend with backend using React and Axios, implemented REST APIs.
+• Reduced manual work and improved efficiency in resource allocation.
+College Connect (Event Portal)
+Java, Spring Boot, React, MySQL, HTML, CSS, JS, Node.js
+• Need/Problem: Students missed events due to scattered information and manual registration. Orga
+nizers faced difficulty managing events and updates efficiently.
+• Built a centralized platform for managing college events and fests.
+• Students can register for events, receive real-time notifications, and view updates.
+• Admin features for creating, updating, and monitoring events efficiently.
+• Utilized Spring Boot REST APIs, React frontend, MySQL database, Node.js server-side scripting.
+• Implemented secure authentication for different user roles and permissions.
+- PROBLEMS SOLVED:
+- 250+ DSA problems solved.
+-   
 
 ---
 
