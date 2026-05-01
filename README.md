@@ -92,7 +92,7 @@ A centralized system was needed to automate requests and inventory management.
 • Integrated frontend with backend using React and Axios, implemented REST APIs.
 • Reduced manual work and improved efficiency in resource allocation.
 
--**College Connect (Event Portal)**
+- 🔹 **College Connect (Event Portal)**
 Java, Spring Boot, React, MySQL, HTML, CSS, JS, Node.js
 • Need/Problem: Students missed events due to scattered information and manual registration. Orga
 nizers faced difficulty managing events and updates efficiently.
