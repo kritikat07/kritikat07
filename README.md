@@ -101,8 +101,8 @@ nizers faced difficulty managing events and updates efficiently.
 • Utilized Spring Boot REST APIs, React frontend, MySQL database, Node.js server-side scripting.
 • Implemented secure authentication for different user roles and permissions.
 - PROBLEMS SOLVED:
-- 250+ DSA problems solved.
--   
+  250+ DSA problems solved.
+   
 
 ---
 
