@@ -122,7 +122,7 @@ nizers faced difficulty managing events and updates efficiently.
   <a href="https://github.com/kritikat07">
     <img src="https://img.shields.io/badge/GitHub-FF4DA6?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="www.linkedin.com/in/kritika765">
     <img src="https://img.shields.io/badge/LinkedIn-FF80AB?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
