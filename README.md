@@ -111,14 +111,6 @@
 
 A full-stack e-commerce platform that allows students to **browse stationery products, manage their cart, place orders and access printing services**.
 
-**Key Features:**
-- 🛍️ Product browsing
-- 🛒 Shopping cart
-- 💳 Checkout & payment functionality
-- 📦 Order management
-- 🔗 REST API integration
-- ⚛️ React-based frontend
-
 ---
 
 ## 🎓 Student Management System
@@ -131,14 +123,6 @@ A full-stack e-commerce platform that allows students to **browse stationery pro
 
 A web-based application designed to **manage student records efficiently** through a centralized system.
 
-**Key Features:**
-- 👨‍🎓 Student record management
-- ➕ Add student information
-- 🔄 Update student details
-- 🗄️ Persistent database storage
-- 🌱 Spring Boot backend
-- 🎨 Thymeleaf web interface
-
 ---
 
 ## 🚦 Crowd Flow Optimiser
@@ -150,15 +134,6 @@ A web-based application designed to **manage student records efficiently** throu
 **Tech:** Java, Spring Boot, React, TypeScript, WebSocket
 
 A real-time crowd management system that **simulates crowd movement, detects bottlenecks and calculates alternative routes** using pathfinding algorithms.
-
-**Key Features:**
-- 👥 Crowd movement simulation
-- 📊 Crowd density monitoring
-- 🚨 Bottleneck detection
-- 🔀 Alternative route calculation
-- 🧭 Pathfinding algorithms
-- 📡 Real-time WebSocket updates
-- 🔴 Crowd-density visualization
 
 ---
 
