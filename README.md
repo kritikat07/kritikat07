@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="180" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif"/>
+<img align="right" height="180" src="./assets/coding-girl.gif"/>
 
 - 🎓 B.Tech Computer Science Student
 - 💡 Passionate about **problem solving & real-world applications**
@@ -129,7 +129,7 @@ A full-stack e-commerce platform that allows students to **browse stationery pro
 
 **Tech:** Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf
 
-A web-based application for **managing student records efficiently** through a centralized system.
+A web-based application designed to **manage student records efficiently** through a centralized system.
 
 **Key Features:**
 - 👨‍🎓 Student record management
