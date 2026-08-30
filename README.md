@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="180" src="./assets/coding-girl.gif"/>
+<img align="right" height="180" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif"/>
 
 - 🎓 B.Tech Computer Science Student
 - 💡 Passionate about **problem solving & real-world applications**
@@ -111,6 +111,14 @@
 
 A full-stack e-commerce platform that allows students to **browse stationery products, manage their cart, place orders and access printing services**.
 
+**Key Features:**
+- 🛍️ Product browsing
+- 🛒 Shopping cart
+- 💳 Checkout & payment functionality
+- 📦 Order management
+- 🔗 REST API integration
+- ⚛️ React-based frontend
+
 ---
 
 ## 🎓 Student Management System
@@ -121,7 +129,15 @@ A full-stack e-commerce platform that allows students to **browse stationery pro
 
 **Tech:** Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf
 
-A web-based application designed to **manage student records efficiently** through a centralized system.
+A web-based application for **managing student records efficiently** through a centralized system.
+
+**Key Features:**
+- 👨‍🎓 Student record management
+- ➕ Add student information
+- 🔄 Update student details
+- 🗄️ Persistent database storage
+- 🌱 Spring Boot backend
+- 🎨 Thymeleaf web interface
 
 ---
 
@@ -134,6 +150,15 @@ A web-based application designed to **manage student records efficiently** throu
 **Tech:** Java, Spring Boot, React, TypeScript, WebSocket
 
 A real-time crowd management system that **simulates crowd movement, detects bottlenecks and calculates alternative routes** using pathfinding algorithms.
+
+**Key Features:**
+- 👥 Crowd movement simulation
+- 📊 Crowd density monitoring
+- 🚨 Bottleneck detection
+- 🔀 Alternative route calculation
+- 🧭 Pathfinding algorithms
+- 📡 Real-time WebSocket updates
+- 🔴 Crowd-density visualization
 
 ---
 
