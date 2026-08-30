@@ -16,7 +16,7 @@
 
 ## 👩‍💻 About Me
 
-<img align="right" height="160" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif"/>
+<img align="right" height="180" src="https://media.giphy.com/media/2ikwIgNrmPZICNmRyX/giphy.gif"/>
 
 - 🎓 B.Tech Computer Science Student
 - 💡 Passionate about **problem solving & real-world applications**
@@ -95,9 +95,9 @@
 
 | Project | Description | Tech Stack |
 |---|---|---|
-| 🛒 **Stationery Nook** | Full-stack e-commerce platform for stationery and printing services | React, JavaScript, Node.js, Express.js, Axios |
-| 🎓 **Student Management System** | Web application for managing and maintaining student records | Java, Spring Boot, JPA, MySQL, Thymeleaf |
-| 🚦 **Crowd Flow Optimiser** | Real-time crowd simulation, bottleneck detection and route optimisation | React, TypeScript, Spring Boot, WebSocket, MySQL, Redis |
+| 🛒 **Stationery Nook** | E-commerce platform for stationery and printing services | React, JavaScript, Node.js, Express.js, Axios |
+| 🎓 **Student Management System** | Web application for managing student records | Java, Spring Boot, JPA, MySQL, Thymeleaf |
+| 🚦 **Crowd Flow Optimiser** | Real-time crowd simulation, bottleneck detection and route optimisation | Java, Spring Boot, React, TypeScript, WebSocket |
 
 ---
 
@@ -109,7 +109,7 @@
 
 **Tech:** React, JavaScript, Node.js, Express.js, Axios, Vite
 
-A full-stack e-commerce platform that allows students to **browse stationery products, manage their cart, place orders and access printing services** through a centralized platform.
+A full-stack e-commerce platform that allows students to **browse stationery products, manage their cart, place orders and access printing services**.
 
 **Key Features:**
 - 🛍️ Product browsing
@@ -129,7 +129,7 @@ A full-stack e-commerce platform that allows students to **browse stationery pro
 
 **Tech:** Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf
 
-A web-based application designed to **manage student records efficiently** through a centralized system.
+A web-based application for **managing student records efficiently** through a centralized system.
 
 **Key Features:**
 - 👨‍🎓 Student record management
@@ -147,16 +147,16 @@ A web-based application designed to **manage student records efficiently** throu
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
-**Tech:** React, TypeScript, Spring Boot, WebSocket, MySQL, Redis
+**Tech:** Java, Spring Boot, React, TypeScript, WebSocket
 
-A real-time crowd management system that **simulates crowd movement, detects bottlenecks and calculates alternative routes** using Dijkstra and A* algorithms.
+A real-time crowd management system that **simulates crowd movement, detects bottlenecks and calculates alternative routes** using pathfinding algorithms.
 
 **Key Features:**
 - 👥 Crowd movement simulation
 - 📊 Crowd density monitoring
 - 🚨 Bottleneck detection
 - 🔀 Alternative route calculation
-- 🧭 Dijkstra & A* algorithms
+- 🧭 Pathfinding algorithms
 - 📡 Real-time WebSocket updates
 - 🔴 Crowd-density visualization
 
