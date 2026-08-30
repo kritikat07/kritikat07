@@ -91,7 +91,17 @@
 
 # 🌟 Featured Projects
 
-## 🛒 Stationery Nook — E-Commerce Platform
+## 📋 Project Overview
+
+| Project | Description | Tech Stack |
+|---|---|---|
+| 🛒 **Stationery Nook** | Full-stack e-commerce platform for stationery and printing services | React, JavaScript, Node.js, Express.js, Axios |
+| 🎓 **Student Management System** | Web application for managing and maintaining student records | Java, Spring Boot, JPA, MySQL, Thymeleaf |
+| 🚦 **Crowd Flow Optimiser** | Real-time crowd simulation, bottleneck detection and route optimisation | React, TypeScript, Spring Boot, WebSocket, MySQL, Redis |
+
+---
+
+## 🛒 Stationery Nook
 
 <a href="https://github.com/kritikat07/Stationery-Nook">
   <img src="https://img.shields.io/badge/View%20Project-GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
@@ -99,7 +109,15 @@
 
 **Tech:** React, JavaScript, Node.js, Express.js, Axios, Vite
 
-A full-stack e-commerce platform for students to **browse stationery, order products, and access printing services** with a streamlined checkout experience.
+A full-stack e-commerce platform that allows students to **browse stationery products, manage their cart, place orders and access printing services** through a centralized platform.
+
+**Key Features:**
+- 🛍️ Product browsing
+- 🛒 Shopping cart
+- 💳 Checkout & payment functionality
+- 📦 Order management
+- 🔗 REST API integration
+- ⚛️ React-based frontend
 
 ---
 
@@ -111,7 +129,15 @@ A full-stack e-commerce platform for students to **browse stationery, order prod
 
 **Tech:** Java, Spring Boot, Spring Data JPA, MySQL, Thymeleaf
 
-A web-based application for **managing student records**, allowing efficient addition, updating, and centralized management of student information.
+A web-based application designed to **manage student records efficiently** through a centralized system.
+
+**Key Features:**
+- 👨‍🎓 Student record management
+- ➕ Add student information
+- 🔄 Update student details
+- 🗄️ Persistent database storage
+- 🌱 Spring Boot backend
+- 🎨 Thymeleaf web interface
 
 ---
 
@@ -123,7 +149,16 @@ A web-based application for **managing student records**, allowing efficient add
 
 **Tech:** React, TypeScript, Spring Boot, WebSocket, MySQL, Redis
 
-A real-time crowd management system that **simulates crowd movement, detects bottlenecks, and calculates alternative routes** using Dijkstra and A* algorithms.
+A real-time crowd management system that **simulates crowd movement, detects bottlenecks and calculates alternative routes** using Dijkstra and A* algorithms.
+
+**Key Features:**
+- 👥 Crowd movement simulation
+- 📊 Crowd density monitoring
+- 🚨 Bottleneck detection
+- 🔀 Alternative route calculation
+- 🧭 Dijkstra & A* algorithms
+- 📡 Real-time WebSocket updates
+- 🔴 Crowd-density visualization
 
 ---
 
@@ -153,17 +188,6 @@ A real-time crowd management system that **simulates crowd movement, detects bot
 <p align="center">
   <img
     src="https://github-readme-stats.vercel.app/api/top-langs/?username=kritikat07&layout=compact&theme=radical"
-  />
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <img
-    src="https://raw.githubusercontent.com/kritikat07/kritikat07/output/github-contribution-grid-snake.svg"
-    alt="GitHub Contribution Snake"
   />
 </p>
 
